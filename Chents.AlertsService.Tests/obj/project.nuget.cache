@@ -1,0 +1,82 @@
+{
+  "version": 2,
+  "dgSpecHash": "jJfXKzEHGOo=",
+  "success": false,
+  "projectFilePath": "/Users/arturfiorindo/RiderProjects/Chents_GS/Chents.AlertsService.Tests/Chents.AlertsService.Tests.csproj",
+  "expectedPackageFiles": [
+    "/Users/arturfiorindo/.nuget/packages/microsoft.entityframeworkcore/8.0.0/microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.0/microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.0/microsoft.entityframeworkcore.analyzers.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.entityframeworkcore.relational/8.0.0/microsoft.entityframeworkcore.relational.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.configuration.commandline/8.0.0/microsoft.extensions.configuration.commandline.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.configuration.environmentvariables/8.0.0/microsoft.extensions.configuration.environmentvariables.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.configuration.fileextensions/8.0.0/microsoft.extensions.configuration.fileextensions.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.configuration.json/8.0.0/microsoft.extensions.configuration.json.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.configuration.usersecrets/8.0.0/microsoft.extensions.configuration.usersecrets.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.diagnostics/8.0.0/microsoft.extensions.diagnostics.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.diagnostics.abstractions/8.0.0/microsoft.extensions.diagnostics.abstractions.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.fileproviders.physical/8.0.0/microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.filesystemglobbing/8.0.0/microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.hosting/8.0.0/microsoft.extensions.hosting.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.hosting.abstractions/8.0.0/microsoft.extensions.hosting.abstractions.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.logging.configuration/8.0.0/microsoft.extensions.logging.configuration.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.logging.console/8.0.0/microsoft.extensions.logging.console.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.logging.debug/8.0.0/microsoft.extensions.logging.debug.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.logging.eventlog/8.0.0/microsoft.extensions.logging.eventlog.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.logging.eventsource/8.0.0/microsoft.extensions.logging.eventsource.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.options.configurationextensions/8.0.0/microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/oracle.entityframeworkcore/8.21.121/oracle.entityframeworkcore.8.21.121.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/oracle.manageddataaccess.core/3.21.120/oracle.manageddataaccess.core.3.21.120.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/rabbitmq.client/6.8.0/rabbitmq.client.6.8.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/system.configuration.configurationmanager/6.0.0/system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/system.diagnostics.diagnosticsource/8.0.0/system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/system.diagnostics.eventlog/8.0.0/system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/system.diagnostics.performancecounter/6.0.1/system.diagnostics.performancecounter.6.0.1.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/system.directoryservices/6.0.1/system.directoryservices.6.0.1.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/system.directoryservices.protocols/6.0.2/system.directoryservices.protocols.6.0.2.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/system.security.accesscontrol/6.0.0/system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/system.security.cryptography.protecteddata/6.0.0/system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/system.security.permissions/6.0.0/system.security.permissions.6.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512",
+    "/Users/arturfiorindo/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Chents.AlertsService.Tests depends on Oracle.EntityFrameworkCore (>= 8.0.0-beta2) but Oracle.EntityFrameworkCore 8.0.0-beta2 was not found. An approximate best match of Oracle.EntityFrameworkCore 8.21.121 was resolved.",
+      "libraryId": "Oracle.EntityFrameworkCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package NetTopologySuite with version (>= 3.0.0)\n  - Found 86 version(s) in nuget.org [ Nearest version: 2.6.0 ]\n  - Found 0 version(s) in /usr/local/share/dotnet/library-packs",
+      "libraryId": "NetTopologySuite",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

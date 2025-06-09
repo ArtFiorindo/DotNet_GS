@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <RootNamespace>Chents.ML</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <!-- Dependências ML -->
+        <PackageReference Include="Microsoft.ML" Version="2.0.1" />
+        <PackageReference Include="Microsoft.ML.DataView" Version="2.0.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <!-- Configurações de Modelo -->
+        <None Update="Model\FloodPredictionModel.zip">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </None>
+    </ItemGroup>
+
+</Project>
